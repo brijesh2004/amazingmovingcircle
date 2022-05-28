@@ -31,7 +31,7 @@ margin-left:40%;
 box-shadow: 10px 10px 20px rgb(248, 0, 248);
 animation: brijesh1 5s infinite;
 } 
-.circle3{
+/* .circle3{
     position: absolute;
     width: 200px;
     margin-left:40%;
@@ -43,7 +43,7 @@ align-items: center;
 text-align: center;
 box-shadow: 10px 10px 20px rgb(17, 188, 17);
 animation: brijesh2 5s infinite;
-}
+} */
 
 @keyframes brijesh {
     0%{
